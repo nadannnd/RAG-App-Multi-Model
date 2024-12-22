@@ -1,4 +1,4 @@
-# Local PDF Chat Assistant
+# RAG-App-Multi-Model
 
 The **RAG-App-Multi-Model** is a powerful tool that allows users to interact with PDF documents using advanced AI language models. With features like document vectorization, text splitting, and natural language processing, this application makes it easy to analyze and query large PDFs efficiently.
 
