@@ -1,6 +1,6 @@
 # Local PDF Chat Assistant
 
-The **Local PDF Chat Assistant** is a powerful tool that allows users to interact with PDF documents using advanced AI language models. With features like document vectorization, text splitting, and natural language processing, this application makes it easy to analyze and query large PDFs efficiently.
+The **RAG-App-Multi-Model** is a powerful tool that allows users to interact with PDF documents using advanced AI language models. With features like document vectorization, text splitting, and natural language processing, this application makes it easy to analyze and query large PDFs efficiently.
 
 ## Features
 - **AI-Powered Querying**: Use advanced language models (like Llama2) for intelligent question-answering.
@@ -11,7 +11,7 @@ The **Local PDF Chat Assistant** is a powerful tool that allows users to interac
 ## User Interface Preview
 Here is a preview of the application's interface:
 
-![Interface Screenshot](C:\Users\intel\Desktop\RAG_FINAL\docs\source\_static\interface.png)
+![Interface Screenshot](interface.png)
 
 The clean and intuitive design ensures a seamless user experience.
 
